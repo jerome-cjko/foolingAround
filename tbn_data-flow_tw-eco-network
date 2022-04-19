@@ -1,6 +1,6 @@
-<mxfile modified="2022-04-19T08:56:22.838Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="oOjQp44RcFl7ProCzXPJ" version="17.4.5" type="github">
+<mxfile modified="2022-04-19T09:01:23.441Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="wKdNF9eibnOt3znJl4-G" version="17.4.5" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="3953" dy="2994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1248" dy="1444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,11 +50,11 @@
         <mxCell id="4hfEfAgx596T7roEEUD7-16" value="確認取得方式 -&amp;nbsp;&lt;br&gt;手動/API" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="420" y="861" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4hfEfAgx596T7roEEUD7-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FFD966;" edge="1" parent="1" source="4hfEfAgx596T7roEEUD7-17" target="4hfEfAgx596T7roEEUD7-123">
+        <mxCell id="4hfEfAgx596T7roEEUD7-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="4hfEfAgx596T7roEEUD7-17" target="4hfEfAgx596T7roEEUD7-123">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="450" y="1200" />
-              <mxPoint x="115" y="1200" />
+              <mxPoint x="450" y="1180" />
+              <mxPoint x="115" y="1180" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -183,7 +183,7 @@
         <mxCell id="4hfEfAgx596T7roEEUD7-76" value="是否有計畫管理需求" style="rounded=1;whiteSpace=wrap;html=1;direction=south;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="220" y="521" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4hfEfAgx596T7roEEUD7-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FFD966;" edge="1" parent="1" source="4hfEfAgx596T7roEEUD7-78" target="4hfEfAgx596T7roEEUD7-123">
+        <mxCell id="4hfEfAgx596T7roEEUD7-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;" edge="1" parent="1" source="4hfEfAgx596T7roEEUD7-78" target="4hfEfAgx596T7roEEUD7-123">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="930" as="targetPoint" />
           </mxGeometry>
@@ -244,7 +244,7 @@
         <mxCell id="4hfEfAgx596T7roEEUD7-88" value="協助將資料發佈至&lt;br&gt;特生中心的研究資料管理中心 TBN-RA" style="rounded=1;whiteSpace=wrap;html=1;direction=west;fillColor=#97D077;" vertex="1" parent="1">
           <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4hfEfAgx596T7roEEUD7-100" value="&lt;h1&gt;臺灣生物多樣性網絡資料流&lt;br&gt;TBN of data flow&lt;/h1&gt;&lt;p&gt;類型包括現地調查、資料建檔，以及文獻資料數化等等。來源不限，包括專家調查、公民科學等等。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4hfEfAgx596T7roEEUD7-100" value="&lt;h1&gt;臺灣生物多樣性網絡資料流Data Flow of TBN&amp;nbsp;&lt;/h1&gt;&lt;p&gt;類型包括現地調查、資料建檔，以及文獻資料數化等等。來源不限，包括專家調查、公民科學等等。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="-120" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="4hfEfAgx596T7roEEUD7-101" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1">
@@ -270,7 +270,7 @@
         <mxCell id="4hfEfAgx596T7roEEUD7-121" value="其他生物多樣性調查計畫" style="text;strokeColor=none;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="4hfEfAgx596T7roEEUD7-118">
           <mxGeometry y="90" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4hfEfAgx596T7roEEUD7-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFD966;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4hfEfAgx596T7roEEUD7-123" target="4hfEfAgx596T7roEEUD7-6">
+        <mxCell id="4hfEfAgx596T7roEEUD7-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4hfEfAgx596T7roEEUD7-123" target="4hfEfAgx596T7roEEUD7-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="190" y="1190" as="sourcePoint" />
           </mxGeometry>
@@ -304,10 +304,10 @@
         <mxCell id="4hfEfAgx596T7roEEUD7-138" value="..." style="text;strokeColor=none;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="4hfEfAgx596T7roEEUD7-123">
           <mxGeometry y="240" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4hfEfAgx596T7roEEUD7-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFD966;" edge="1" parent="1" source="4hfEfAgx596T7roEEUD7-132" target="4hfEfAgx596T7roEEUD7-16">
+        <mxCell id="4hfEfAgx596T7roEEUD7-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="4hfEfAgx596T7roEEUD7-132" target="4hfEfAgx596T7roEEUD7-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4hfEfAgx596T7roEEUD7-132" value="GBIF" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="4hfEfAgx596T7roEEUD7-132" value="GBIF&lt;br&gt;+ 資料論文發表" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="360" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
