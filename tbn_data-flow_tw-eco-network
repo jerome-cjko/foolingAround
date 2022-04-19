@@ -1,6 +1,6 @@
-<mxfile modified="2022-04-19T08:41:45.770Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="W1H8LtL79fzSjfPwGRMg" version="17.4.5" type="github">
+<mxfile modified="2022-04-19T08:56:22.838Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="oOjQp44RcFl7ProCzXPJ" version="17.4.5" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="616" dy="1592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3953" dy="2994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4hfEfAgx596T7roEEUD7-6" value="搜尋資料來源" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="230" y="931.5" width="60" height="120" as="geometry" />
+          <mxGeometry x="220" y="930.5" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="4hfEfAgx596T7roEEUD7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4hfEfAgx596T7roEEUD7-7" target="4hfEfAgx596T7roEEUD7-16">
           <mxGeometry relative="1" as="geometry" />
@@ -26,7 +26,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4hfEfAgx596T7roEEUD7-7" value="是否為開放資料" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="4hfEfAgx596T7roEEUD7-7" value="是否為&lt;br&gt;開放資料" style="rounded=1;whiteSpace=wrap;html=1;direction=south;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="311" y="930.5" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="4hfEfAgx596T7roEEUD7-8" value="&lt;h1&gt;資料彙集&lt;br&gt;Collation&lt;/h1&gt;匯集不同調查團隊蒐集之生物時空分布資料。" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
@@ -49,6 +49,14 @@
         </mxCell>
         <mxCell id="4hfEfAgx596T7roEEUD7-16" value="確認取得方式 -&amp;nbsp;&lt;br&gt;手動/API" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="420" y="861" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4hfEfAgx596T7roEEUD7-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FFD966;" edge="1" parent="1" source="4hfEfAgx596T7roEEUD7-17" target="4hfEfAgx596T7roEEUD7-123">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="1200" />
+              <mxPoint x="115" y="1200" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="4hfEfAgx596T7roEEUD7-17" value="鼓勵成為開放資料" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="420" y="1000" width="60" height="120" as="geometry" />
@@ -99,8 +107,8 @@
           <mxGeometry x="760" y="301" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4hfEfAgx596T7roEEUD7-50" value="資料產品" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="954" y="191" width="200" height="190" as="geometry">
-            <mxRectangle x="954" y="170" width="196" height="23" as="alternateBounds" />
+          <mxGeometry x="954" y="200" width="200" height="190" as="geometry">
+            <mxRectangle x="954" y="200" width="196" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hfEfAgx596T7roEEUD7-44" value="提供地區物種清單（生物名錄）下載" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4hfEfAgx596T7roEEUD7-50">
@@ -111,7 +119,7 @@
         </mxCell>
         <mxCell id="4hfEfAgx596T7roEEUD7-54" value="視覺化圖台 - 地圖圖台" style="swimlane;fillColor=#97D077;" vertex="1" parent="1">
           <mxGeometry x="954" y="411" width="200" height="400" as="geometry">
-            <mxRectangle x="954" y="390" width="196" height="23" as="alternateBounds" />
+            <mxRectangle x="954" y="411" width="196" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hfEfAgx596T7roEEUD7-47" value="提供關注物種的分布概況空間地圖" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4hfEfAgx596T7roEEUD7-54">
@@ -131,7 +139,7 @@
         </mxCell>
         <mxCell id="4hfEfAgx596T7roEEUD7-65" value="公眾授權類型" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#FFFFFF;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="760" y="391" width="120" height="30" as="geometry">
-            <mxRectangle x="760" y="310" width="120" height="150" as="alternateBounds" />
+            <mxRectangle x="760" y="391" width="120" height="150" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hfEfAgx596T7roEEUD7-66" value="CC0" style="text;strokeColor=none;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="4hfEfAgx596T7roEEUD7-65">
@@ -172,10 +180,10 @@
             <mxPoint x="-10" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4hfEfAgx596T7roEEUD7-76" value="是否有計畫管理需求" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="4hfEfAgx596T7roEEUD7-76" value="是否有計畫管理需求" style="rounded=1;whiteSpace=wrap;html=1;direction=south;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="220" y="521" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4hfEfAgx596T7roEEUD7-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FFD966;" edge="1" parent="1" source="4hfEfAgx596T7roEEUD7-78">
+        <mxCell id="4hfEfAgx596T7roEEUD7-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FFD966;" edge="1" parent="1" source="4hfEfAgx596T7roEEUD7-78" target="4hfEfAgx596T7roEEUD7-123">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="930" as="targetPoint" />
           </mxGeometry>
@@ -199,8 +207,8 @@
             <mxPoint x="-8" y="35" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4hfEfAgx596T7roEEUD7-81" value="是否需要屏蔽敏感物種座標" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="311" y="340" width="60" height="120" as="geometry" />
+        <mxCell id="4hfEfAgx596T7roEEUD7-81" value="是否需要屏蔽敏感物種座標" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#FFFFFF;strokeColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="310" y="340" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="4hfEfAgx596T7roEEUD7-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4hfEfAgx596T7roEEUD7-84" target="4hfEfAgx596T7roEEUD7-81">
           <mxGeometry relative="1" as="geometry" />
@@ -218,10 +226,10 @@
             <mxPoint x="-7" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4hfEfAgx596T7roEEUD7-84" value="是否有發佈資料論文需求" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="4hfEfAgx596T7roEEUD7-84" value="是否有發佈資料論文需求" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#FFFFFF;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="220" y="341" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4hfEfAgx596T7roEEUD7-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFD966;" edge="1" parent="1" source="4hfEfAgx596T7roEEUD7-87" target="4hfEfAgx596T7roEEUD7-16">
+        <mxCell id="4hfEfAgx596T7roEEUD7-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFD966;" edge="1" parent="1" source="4hfEfAgx596T7roEEUD7-87" target="4hfEfAgx596T7roEEUD7-132">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4hfEfAgx596T7roEEUD7-87" value="協助將資料發佈至TaiBIF IPT" style="rounded=1;whiteSpace=wrap;html=1;direction=west;fillColor=#97D077;" vertex="1" parent="1">
@@ -262,9 +270,14 @@
         <mxCell id="4hfEfAgx596T7roEEUD7-121" value="其他生物多樣性調查計畫" style="text;strokeColor=none;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="4hfEfAgx596T7roEEUD7-118">
           <mxGeometry y="90" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4hfEfAgx596T7roEEUD7-123" value="各單位資料庫" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="30" y="930.5" width="170" height="180" as="geometry">
-            <mxRectangle x="30" y="200" width="170" height="30" as="alternateBounds" />
+        <mxCell id="4hfEfAgx596T7roEEUD7-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFD966;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4hfEfAgx596T7roEEUD7-123" target="4hfEfAgx596T7roEEUD7-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="1190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hfEfAgx596T7roEEUD7-123" value="國內各單位資料庫" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="30" y="861" width="170" height="270" as="geometry">
+            <mxRectangle x="30" y="861" width="170" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hfEfAgx596T7roEEUD7-124" value="林務局 eCollect" style="text;strokeColor=none;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="4hfEfAgx596T7roEEUD7-123">
@@ -281,6 +294,21 @@
         </mxCell>
         <mxCell id="4hfEfAgx596T7roEEUD7-129" value="..." style="text;strokeColor=none;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="4hfEfAgx596T7roEEUD7-123">
           <mxGeometry y="150" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4hfEfAgx596T7roEEUD7-136" value="..." style="text;strokeColor=none;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="4hfEfAgx596T7roEEUD7-123">
+          <mxGeometry y="180" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4hfEfAgx596T7roEEUD7-137" value="..." style="text;strokeColor=none;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="4hfEfAgx596T7roEEUD7-123">
+          <mxGeometry y="210" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4hfEfAgx596T7roEEUD7-138" value="..." style="text;strokeColor=none;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="4hfEfAgx596T7roEEUD7-123">
+          <mxGeometry y="240" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4hfEfAgx596T7roEEUD7-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFD966;" edge="1" parent="1" source="4hfEfAgx596T7roEEUD7-132" target="4hfEfAgx596T7roEEUD7-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4hfEfAgx596T7roEEUD7-132" value="GBIF" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="360" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
