@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-10T08:00:20.371Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36" etag="DUmgQTzHEWLGgOZbKhLj" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-10T08:05:21.257Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36" etag="kaLERLbmClosM4FZQrHs" version="20.2.7" type="github">
   <diagram id="yPxyJZ8AM_hMuL3Unpa9" name="gitflow">
-    <mxGraphModel dx="2288" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2542" dy="1247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -269,6 +269,12 @@
         </mxCell>
         <mxCell id="zMD3a8PgaSSyt_58J0AG-109" value="ATW 涵括的資料生命週期階段" style="text;html=1;strokeColor=#666666;fillColor=#F5F5F5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="445" y="810" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zMD3a8PgaSSyt_58J0AG-117" value="圖例" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=270;" vertex="1" parent="1">
+          <mxGeometry x="125" y="750" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zMD3a8PgaSSyt_58J0AG-118" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeColor=#B3B3B3;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="160" y="715" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
