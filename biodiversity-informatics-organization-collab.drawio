@@ -1,38 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2023-01-08T05:06:10.297Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="utVRXYcV-T-eXdEZSWWd" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-08T06:06:37.327Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="06gU4A2aMo5LauyxldYV" version="20.5.3" type="github">
   <diagram id="d1aW-126iCYcCsNvf53q" name="Page-1">
     <mxGraphModel dx="1691" dy="2547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_H1rxt1VtTCo4OspMXnY-1" value="&lt;h1&gt;資料彙集&lt;br&gt;Collation&lt;/h1&gt;將分散於不同來源的資料集彙集進單一的儲存庫" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-450" width="190" height="120" as="geometry" />
+          <mxGeometry x="30" y="-510" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_H1rxt1VtTCo4OspMXnY-2" value="&lt;h1&gt;資料整合&lt;br&gt;Integration&lt;/h1&gt;&lt;p&gt;將資料集整合為可互通的巨量資料叢集&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-200" width="190" height="120" as="geometry" />
+          <mxGeometry x="30" y="-260" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_H1rxt1VtTCo4OspMXnY-3" value="&lt;h1&gt;應用服務&lt;br&gt;Application&lt;/h1&gt;&lt;p&gt;轉換為資料產品（如地區物種清單），或以視覺化圖台（如地圖圖台）呈現特定空間分區與特定目標物種的資料現況。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="960" y="-1500" width="190" height="120" as="geometry" />
+          <mxGeometry x="950" y="-1560" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_H1rxt1VtTCo4OspMXnY-4" value="&lt;h1&gt;資料生成&lt;br&gt;Generation&lt;/h1&gt;&lt;p&gt;類型包括現地調查、資料建檔，以及文獻資料數化等等。來源不限，包括專家調查、公民科學等等。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-1310" width="190" height="120" as="geometry" />
+          <mxGeometry x="30" y="-1370" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="_H1rxt1VtTCo4OspMXnY-6" value="&lt;h1&gt;資料散佈&lt;br&gt;Distribution&lt;/h1&gt;&lt;p&gt;提供瀏覽、搜尋，及下載等功能，資料均以擁有公眾授權的開放資料形式釋出&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="750" y="-1500" width="190" height="120" as="geometry" />
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-6" value="&lt;h1&gt;資料散佈&lt;br&gt;Distribution&lt;/h1&gt;&lt;p&gt;提供瀏覽、搜尋，及下載等功能，資料以特定授權的形式釋出&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-1560" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_H1rxt1VtTCo4OspMXnY-11" value="產生新資料與管理資料，所以有調查、倉儲、資料庫的需求" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-1390" width="120" height="80" as="geometry" />
+          <mxGeometry x="70" y="-1450" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_H1rxt1VtTCo4OspMXnY-15" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="550" y="-1580" width="190" height="200" as="geometry" />
+          <mxGeometry x="760" y="-1640" width="190" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="_H1rxt1VtTCo4OspMXnY-7" value="&lt;h1&gt;資料註記&lt;br&gt;Annotation&lt;/h1&gt;&lt;p&gt;提升資料所蘊含的訊息量（如issue）&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="_H1rxt1VtTCo4OspMXnY-15">
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-7" value="&lt;h1&gt;資料註記&lt;br&gt;Annotation&lt;/h1&gt;&lt;p&gt;提升資料所蘊含的訊息量（如縣市、海拔、廣義的話物種資訊也算）&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="_H1rxt1VtTCo4OspMXnY-15">
           <mxGeometry y="80" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_H1rxt1VtTCo4OspMXnY-14" value="資料進入倉儲管理後做的加註或資訊補充" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#7EA6E0;" vertex="1" parent="_H1rxt1VtTCo4OspMXnY-15">
           <mxGeometry x="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_H1rxt1VtTCo4OspMXnY-19" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="40" y="-750" width="190" height="200" as="geometry" />
+          <mxGeometry x="30" y="-810" width="190" height="200" as="geometry" />
         </mxCell>
         <mxCell id="_H1rxt1VtTCo4OspMXnY-5" value="&lt;h1&gt;資料流通&lt;br&gt;Mobilization&lt;/h1&gt;分享第一手資料，使資料進入可以被找到的資料流之中。&lt;p&gt;.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="_H1rxt1VtTCo4OspMXnY-19">
           <mxGeometry y="80" width="190" height="120" as="geometry" />
@@ -41,52 +41,150 @@
           <mxGeometry x="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_H1rxt1VtTCo4OspMXnY-25" value="民間公司&lt;br&gt;（如觀察家）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-900" width="160" height="40" as="geometry" />
+          <mxGeometry x="270" y="-960" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_H1rxt1VtTCo4OspMXnY-16" target="_H1rxt1VtTCo4OspMXnY-54">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_H1rxt1VtTCo4OspMXnY-16" value="林務局" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-1300" width="160" height="40" as="geometry" />
+          <mxGeometry x="270" y="-1360" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="_H1rxt1VtTCo4OspMXnY-17" target="_H1rxt1VtTCo4OspMXnY-61">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_H1rxt1VtTCo4OspMXnY-17" value="營建署" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-1200" width="160" height="40" as="geometry" />
+          <mxGeometry x="270" y="-1260" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_H1rxt1VtTCo4OspMXnY-18" target="_H1rxt1VtTCo4OspMXnY-56">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_H1rxt1VtTCo4OspMXnY-18" value="海保署" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-1250" width="160" height="40" as="geometry" />
+          <mxGeometry x="270" y="-1310" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_H1rxt1VtTCo4OspMXnY-20" value="水利署" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-1150" width="160" height="40" as="geometry" />
+          <mxGeometry x="270" y="-1210" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_H1rxt1VtTCo4OspMXnY-21" value="典藏機構&lt;br&gt;（如台博館）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-1000" width="160" height="40" as="geometry" />
+          <mxGeometry x="270" y="-1060" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="_H1rxt1VtTCo4OspMXnY-22" target="_H1rxt1VtTCo4OspMXnY-63">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_H1rxt1VtTCo4OspMXnY-22" value="政府幕僚機構&lt;br&gt;（如林試所、水規所、特生）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-1050" width="160" height="40" as="geometry" />
+          <mxGeometry x="270" y="-1110" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="_H1rxt1VtTCo4OspMXnY-23" target="_H1rxt1VtTCo4OspMXnY-85">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_H1rxt1VtTCo4OspMXnY-23" value="學術機構&lt;br&gt;（如中研院、大學等）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-950" width="160" height="40" as="geometry" />
+          <mxGeometry x="270" y="-1010" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_H1rxt1VtTCo4OspMXnY-26" value="環保署" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-1100" width="160" height="40" as="geometry" />
+          <mxGeometry x="270" y="-1160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="_H1rxt1VtTCo4OspMXnY-27" target="_H1rxt1VtTCo4OspMXnY-75">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_H1rxt1VtTCo4OspMXnY-27" value="NGO組織&lt;br&gt;（如海龜點點名）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-850" width="160" height="40" as="geometry" />
+          <mxGeometry x="270" y="-910" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="_H1rxt1VtTCo4OspMXnY-28" target="_H1rxt1VtTCo4OspMXnY-71">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_H1rxt1VtTCo4OspMXnY-28" value="國際倡議組織地區節點&lt;br&gt;（如TaiBIF）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-660" width="160" height="40" as="geometry" />
+          <mxGeometry x="270" y="-720" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_H1rxt1VtTCo4OspMXnY-29" value="行政院國發會&lt;br&gt;（政府資料開放平臺）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-450" width="160" height="40" as="geometry" />
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="_H1rxt1VtTCo4OspMXnY-29" target="_H1rxt1VtTCo4OspMXnY-79">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_H1rxt1VtTCo4OspMXnY-30" value="政府幕僚機構&lt;br&gt;（如特生TBN）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-200" width="160" height="40" as="geometry" />
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-29" value="國家開放資料相關權責單位&lt;br&gt;（如行政院國家發展委員會）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-510" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="_H1rxt1VtTCo4OspMXnY-30" target="_H1rxt1VtTCo4OspMXnY-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-30" value="政府幕僚機構&lt;br&gt;（如特生）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-210" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="_H1rxt1VtTCo4OspMXnY-31" target="_H1rxt1VtTCo4OspMXnY-67">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_H1rxt1VtTCo4OspMXnY-31" value="政府跨機關合作協議&lt;br&gt;（如TBIA）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-150" width="160" height="40" as="geometry" />
+          <mxGeometry x="270" y="-160" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_H1rxt1VtTCo4OspMXnY-48" value="國家資料管理研究機構&lt;br&gt;（如depositar）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-400" width="160" height="40" as="geometry" />
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="_H1rxt1VtTCo4OspMXnY-48" target="_H1rxt1VtTCo4OspMXnY-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-48" value="國家資料管理研究機構&lt;br&gt;（如林試所、中研院資科所）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-460" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="_H1rxt1VtTCo4OspMXnY-49" target="_H1rxt1VtTCo4OspMXnY-83">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_H1rxt1VtTCo4OspMXnY-49" value="國際倡議組織或跨國協議&lt;br&gt;（如GBIF）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-350" width="160" height="40" as="geometry" />
+          <mxGeometry x="270" y="-260" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-50" value="個人觀察者" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-860" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="_H1rxt1VtTCo4OspMXnY-51" target="_H1rxt1VtTCo4OspMXnY-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-51" value="資料流通倡議團體或機構&lt;br&gt;（如iNaturalist)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-670" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-54" value="eCollect" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-1360" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_H1rxt1VtTCo4OspMXnY-56" target="_H1rxt1VtTCo4OspMXnY-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-56" value="iOcean" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-1310" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-57" value="iOcean" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="950" y="-1310" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-61" value="國家公園生物多樣性資料庫與濕地資料庫" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-1260" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-63" value="林試所植物標本館" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-1110" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-66" value="台灣生物多樣性網絡 TBN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-210" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="_H1rxt1VtTCo4OspMXnY-67" target="_H1rxt1VtTCo4OspMXnY-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-67" value="TBIA入口網" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-68" value="TBIA入口網" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="950" y="-160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-71" value="TaiBIF IPT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-720" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-73" value="iNaturalist" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-670" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-75" value="TurtleSpot Taiwan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-910" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-79" value="政府資料開放平臺" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-510" width="160" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="如 depositar、&lt;br&gt;林試所 Data Catalog" link="https://metacat.tfri.gov.tw/tfri" id="_H1rxt1VtTCo4OspMXnY-81">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" vertex="1" parent="1">
+            <mxGeometry x="550" y="-460" width="160" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-83" value="GBIF.org" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-260" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1rxt1VtTCo4OspMXnY-85" value="如臺灣生命大百科 TaiEOL; 臺灣物種名錄 TaiCoL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-1010" width="560" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
